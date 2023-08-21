@@ -5,10 +5,10 @@
 #container:before{
 	color:#f00;
 	font-size: 20px;
-	content: "Before Element ";
+	content: "Before Element";
 }
 #container:after{
 	color:#f00;
 	font-size: 20px;
-	content: " After Element";
+	content: "After Element";
 }
